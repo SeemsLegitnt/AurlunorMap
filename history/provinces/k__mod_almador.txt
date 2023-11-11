@@ -1,6 +1,6 @@
 #c_sachomar
 880 = {
-	culture = heartlander
+	culture = ashuran
 	religion = almadorian
 	holding = castle_holding
 }
